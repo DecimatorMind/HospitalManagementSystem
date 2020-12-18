@@ -10,3 +10,9 @@ This application controls the database using the MySQL commands that run in the 
 I have used the Java SQL Connector in order to connect the database to the application.
 The modules of Doctor login and patient login are not completed yet.
 
+# How to run
+
+To run the application, just open the project in any of the Java IDE, add the configurations to run the project.
+Select Main.java as the main file in order to run the project.
+The AdminLogin page appears, where the admin can login to open the Admin actions.
+The login and password can be found in the database that is connected to the project.
