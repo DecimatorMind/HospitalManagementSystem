@@ -16,3 +16,15 @@ To run the application, just open the project in any of the Java IDE, add the co
 Select Main.java as the main file in order to run the project.
 The AdminLogin page appears, where the admin can login to open the Admin actions.
 The login and password can be found in the database that is connected to the project.
+
+# Project Modules
+
+The project consists of varioud modules.
+The first module is the one where the admin logs in the application.
+Currently the application does not contain any constraint on the input password or username.
+But they can be easily added to the code.
+Once the user logs in to the application.
+They can see various buttons that segues them into modules that modify or update the database.
+Admin can add or modify data about the doctor.
+Admin can add or modify data about the patients.
+Admin can see the doctor timings, and see the patient log in the form of a table.
