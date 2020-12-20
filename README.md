@@ -23,6 +23,8 @@ The project consists of varioud modules.
 The first module is the one where the admin logs in the application.
 Currently the application does not contain any constraint on the input password or username.
 But they can be easily added to the code.
+
+
 Once the user logs in to the application.
 They can see various buttons that segues them into modules that modify or update the database.
 Admin can add or modify data about the doctor.
