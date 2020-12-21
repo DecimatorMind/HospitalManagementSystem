@@ -30,3 +30,5 @@ They can see various buttons that segues them into modules that modify or update
 Admin can add or modify data about the doctor.
 Admin can add or modify data about the patients.
 Admin can see the doctor timings, and see the patient log in the form of a table.
+
+The DoctorLogins and PatientLogins just input the text. They are not checked with any database. They are yet to be completed.
