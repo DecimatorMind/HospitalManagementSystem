@@ -32,3 +32,4 @@ Admin can add or modify data about the patients.
 Admin can see the doctor timings, and see the patient log in the form of a table.
 
 The DoctorLogins and PatientLogins just input the text. They are not checked with any database. They are yet to be completed.
+The new modules like the doctorLogin is the one where the doctor can change the their timings and can see the patients that are assigned to them.
