@@ -78,7 +78,7 @@ public class Main extends JFrame {
 				try {
 					Class.forName("com.mysql.jdbc.Driver");
 					java.sql.Connection conn;
-					conn = DriverManager.getConnection("jdbc:mysql://localhost/Project?autoReconnect=true&useSSL=false", "root", "Pranjal1");
+					conn = DriverManager.getConnection("jdbc:mysql://localhost/Project?autoReconnect=true&useSSL=false", "root", "root");
 					Statement stmt = conn.createStatement();
 					String sql = "Select loginid, password from admin";
 					ResultSet result = stmt.executeQuery(sql);
