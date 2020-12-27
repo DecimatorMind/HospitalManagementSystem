@@ -181,7 +181,7 @@ public class UpdateApp extends JFrame {
 				try {
 					Class.forName("com.mysql.jdbc.Driver");
 					java.sql.Connection conn;
-					conn = DriverManager.getConnection("jdbc:mysql://localhost/Project?autoReconnect=true&useSSL=false", "root", "Pranjal1");
+					conn = DriverManager.getConnection("jdbc:mysql://localhost/Project?autoReconnect=true&useSSL=false", "root", "root");
 					Statement stmt = conn.createStatement();
 					String sql_1 = "Select appointmentid from appointment";
 					ResultSet result = stmt.executeQuery(sql_1);
