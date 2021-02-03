@@ -35,3 +35,80 @@ Admin can see the doctor timings, and see the patient log in the form of a table
 
 The DoctorLogins and PatientLogins just input the text. They are not checked with any database. They are yet to be completed.
 The new modules like the doctorLogin is the one where the doctor can change the their timings and can see the patients that are assigned to them.
+
+
+# File Directory
+
+    ├── README.md
+    ├── bin
+    │   ├── AdminPortal$1.class
+    │   ├── AdminPortal$2.class
+    │   ├── AdminPortal$3.class
+    │   ├── AdminPortal$4.class
+    │   ├── AdminPortal$5.class
+    │   ├── AdminPortal$6.class
+    │   ├── AdminPortal$7.class
+    │   ├── AdminPortal$8.class
+    │   ├── AdminPortal$9.class
+    │   ├── AdminPortal.class
+    │   ├── DeleteAppointment$1.class
+    │   ├── DeleteAppointment$2.class
+    │   ├── DeleteAppointment$3.class
+    │   ├── DeleteAppointment.class
+    │   ├── DeleteDoctor$1.class
+    │   ├── DeleteDoctor$2.class
+    │   ├── DeleteDoctor$3.class
+    │   ├── DeleteDoctor.class
+    │   ├── DoctorLogin$1.class
+    │   ├── DoctorLogin$2.class
+    │   ├── DoctorLogin$3.class
+    │   ├── DoctorLogin.class
+    │   ├── DoctorView$1.class
+    │   ├── DoctorView.class
+    │   ├── Doctor_Timings$1.class
+    │   ├── Doctor_Timings$2.class
+    │   ├── Doctor_Timings.class
+    │   ├── Main$1.class
+    │   ├── Main$2.class
+    │   ├── Main$3.class
+    │   ├── Main$4.class
+    │   ├── Main.class
+    │   ├── PatientLogin$1.class
+    │   ├── PatientLogin$2.class
+    │   ├── PatientLogin$3.class
+    │   ├── PatientLogin$4.class
+    │   ├── PatientLogin.class
+    │   ├── PatientView$1.class
+    │   ├── PatientView.class
+    │   ├── Register$1.class
+    │   ├── Register.class
+    │   ├── UpdateApp$1.class
+    │   ├── UpdateApp$2.class
+    │   ├── UpdateApp$3.class
+    │   ├── UpdateApp.class
+    │   ├── UpdateDoctor$1.class
+    │   ├── UpdateDoctor$2.class
+    │   ├── UpdateDoctor$3.class
+    │   ├── UpdateDoctor.class
+    │   ├── ViewApp$1.class
+    │   ├── ViewApp$2.class
+    │   ├── ViewApp.class
+    │   ├── ViewPAt$1.class
+    │   ├── ViewPAt$2.class
+    │   └── ViewPAt.class
+    └── src
+        ├── AdminPortal.java
+        ├── DeleteAppointment.java
+        ├── DeleteDoctor.java
+        ├── DoctorLogin.java
+        ├── DoctorView.java
+        ├── Doctor_Timings.java
+        ├── Main.java
+        ├── PatientLogin.java
+        ├── PatientView.java
+        ├── Register.java
+        ├── UpdateApp.java
+        ├── UpdateDoctor.java
+        ├── ViewApp.java
+        └── ViewPAt.java
+
