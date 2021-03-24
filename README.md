@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Language-Java-red)
 ![](https://img.shields.io/badge/Database-MySQL-blue)
-![](https://img.shields.io/badge/UIFrameword-Swing-orange)
+![](https://img.shields.io/badge/UIFramework-Swing-orange)
+![](https://img.shields.io/badge/Author-Pranjal-green)
 
 # HospitalManagementSystem
 A Database management system, which makes it easy to control the database of the hospital.
